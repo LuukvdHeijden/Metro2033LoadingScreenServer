@@ -56,7 +56,7 @@ var l_bgImages = [
 ];
 
 /*Random background images order?*/
-var l_bgImagesRandom = true;
+var l_bgImagesRandom = false;
 
 /*(Image-background only)
 Delay between background images changes
@@ -77,10 +77,10 @@ var l_bgDarkening = 50;
 
 /*Music player
 'true' or 'false' to enable music in the background*/
-var l_music = true;
+var l_music = false;
 
 /*Display actual song's name?*/
-var l_musicDisplay = true;
+var l_musicDisplay = false;
 
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
