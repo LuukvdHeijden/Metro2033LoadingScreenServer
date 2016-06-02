@@ -9,15 +9,15 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "images/logo.png";
+var l_serverImage = "https://i.gyazo.com/39dde95bd2c0e3c7244d8e3d527c3e3d.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 /*Video background
 Avaiable options:
@@ -92,7 +92,7 @@ var l_musicPlaylist = [
 ];
 
 /*Random music order?*/
-var l_musicRandom = true;
+var l_musicRandom = false;
 
 /*Music volume
 Choose a value between 0 and 100*/
@@ -103,9 +103,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
+"This server is semi-serious RP, so read our rules.",
 "Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Join Our forums at http://www.taskforce88-community.online/forum !"
 ];
 
 /*Random message order?*/
