@@ -9,7 +9,7 @@
 
 /*URL for the server logo
 Leave it blank to use text instead*/
-var l_serverImage = "https://i.gyazo.com/39dde95bd2c0e3c7244d8e3d527c3e3d.png";
+var l_serverImage = "";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
